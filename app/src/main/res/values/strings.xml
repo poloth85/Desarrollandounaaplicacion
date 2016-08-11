@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Desarrollando una aplicacion</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="boton">Siguiente</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="fechad">Fecha de Nacimiento: </string>
+    <string name="action">Seleccione Fecha de Nacimiento</string>
+    <string name="confirm">Confirmar Datos</string>
+    <string name="txtFecha">01/01/2016</string>
+    <string name="tel">Tel. </string>
+    <string name="txtTel">55332233</string>
+    <string name="Email">Email: </string>
+    <string name="txtEmail">poloth85@gmail.com</string>
+    <string name="Descripcion">Descripción : </string>
+    <string name="txtDescripcion">xxxxxx nnnnnnnn dddddd deedfdsafasd eadfafasdfs dafasfaaffafafs </string>
+    <string name="txtEdBoton">Editar Datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="y">y</string>
+    <string name="m">m</string>
+    <string name="d">d</string>
+</resources>
